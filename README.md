@@ -6,3 +6,5 @@ v0.2 will be out in upcoming week, intial test launch and update here, later lau
 
 Devlog available on Youtube for this. @ PixSpaces channel.
 Link: https://youtu.be/fDvynN09PwU
+
+## New update coming soon, updated versions for Mobile and WebGL(completed games with better features is in progress)
